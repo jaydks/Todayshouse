@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todayshouse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_btn_nav_home_title">홈</string>
+    <string name="main_btn_nav_shopping_title">쇼핑</string>
+    <string name="main_btn_nav_move_title">이사/시공/수리</string>
+    <string name="main_btn_nav_mypage_title">마이페이지</string>
+</resources>
